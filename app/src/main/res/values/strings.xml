@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewGenG</string>
+    <string name="txt_iv">this is imageview</string>
+    <string name="txt_nama_buah">Buah Apple</string>
+</resources>
